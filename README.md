@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakshith</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="web dev" width="400" border-style:dotted src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+<img align="right" alt="web dev" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshith31&label=Profile%20views&color=0e75b6&style=flat" alt="rakshith31" /> </p>
 
