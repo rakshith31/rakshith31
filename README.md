@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Rakshith</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="love with web dev" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Flearn-full-stack-development-html-css-javascript-node-js-mongodb%2F&psig=AOvVaw1aXv9tWmY8cHBFYM7ORAWB&ust=1674760267400000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNj4rKi24_wCFQAAAAAdAAAAABAQ">
+<img align="right" alt="love with web dev" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Flearn-full-stack-development-html-css-javascript-node-js-mongodb%2F&psig=AOvVaw1aXv9tWmY8cHBFYM7ORAWB&ust=1674760267400000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNj4rKi24_wCFQAAAAAdAAAAABAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshith31&label=Profile%20views&color=0e75b6&style=flat" alt="rakshith31" /> </p>
 
