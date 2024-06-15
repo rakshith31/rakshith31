@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **arakshith3108@gmail.com**
 
-- Contact Number: +91 9398100564
+- ![image](https://github.com/rakshith31/rakshith31/assets/99724285/fa3aba8a-81a0-43ea-b0ec-a79c19e4d47f)
+Contact Number: +91 9398100564
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arakshith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a-rakshith-a92654229/" height="30" width="40" /></a>
